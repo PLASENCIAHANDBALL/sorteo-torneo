@@ -1,1 +1,0 @@
-# sorteo-torneo
